@@ -6,7 +6,7 @@ Sou apaixonada por transformar ideias em experiências visuais incríveis e func
 
 <h2>💻 Tecnologias & Ferramentas:</h2>
 - HTML, CSS, JavaScript
-- React / Vue (se usar, pode ajustar)
+- React / Vue 
 - Figma, Adobe XD, Photoshop
 
 <h2>🚀 O que você vai encontrar por aqui:</h2>
