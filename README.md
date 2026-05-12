@@ -1,16 +1,23 @@
 ## Hi there 👋
 
 <!--
-**JessMaciel/JessMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>🎨✨ Front-End Developer & Designer</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sou apaixonada por transformar ideias em experiências visuais incríveis e funcionais. Combino criatividade com código para desenvolver interfaces modernas, intuitivas e responsivas.
+
+<h2>💻 Tecnologias & Ferramentas:</h2>
+- HTML, CSS, JavaScript
+- React / Vue (se usar, pode ajustar)
+- Figma, Adobe XD, Photoshop
+
+<h2>🚀 O que você vai encontrar por aqui:</h2>
+- Projetos de interfaces e layouts criativos
+- Aplicações web responsivas
+- Experimentos com design e interação
+
+<h3>🌱 Sempre explorando novas tendências em UI/UX e aprimorando minhas habilidades em desenvolvimento front-end.</h3>
+
+<h4>📫 Vamos conectar e construir algo incrível juntos!</h4>
+
 -->
