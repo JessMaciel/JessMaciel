@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 
 <h1>🎨✨ Front-End Developer & Designer</h1>
 
@@ -20,4 +18,4 @@ Sou apaixonada por transformar ideias em experiências visuais incríveis e func
 
 <h4>📫 Vamos conectar e construir algo incrível juntos!</h4>
 
--->
+
